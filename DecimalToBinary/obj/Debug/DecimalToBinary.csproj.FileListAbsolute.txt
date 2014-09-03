@@ -1,0 +1,9 @@
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\practice\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\practice\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\practice\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\practice\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\practice\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.Form1.resources
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\practice\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.Properties.Resources.resources
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\practice\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.GenerateResource.Cache
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\practice\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\Hsin_Ping\Documents\Visual Studio 2012\Projects\practice\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
